@@ -1,0 +1,32 @@
+body{color: #363958;}
+header{width: 100%;
+background-color: #FFFFF4;}
+nav{background-color: #FFFFF4;}
+.icon img{width: 80px;
+margin-right: 40px;}
+.col .bags-card {
+    border: 0;
+}
+#moon{color: #fd7e14;
+    font-size: 60px;}
+
+.bags-card .bags-card-footer {
+    background-color: white;
+    border: 0;
+}
+#name-color{color: #FA804C;}
+.items a{font-weight: 600;
+    font-size: 24px;
+margin-left: 20px;}
+    .nav-hover  li a:hover,.nav-hover li a#hello{background: #FA804C;
+    border-radius: 6px;
+padding-left: 6px;
+margin-left: 20px;}
+#all-button{background-color: hsl(22, 63%, 36%);
+    color: white;
+    padding: 7px 24px;
+    border-radius: 10px;}
+    i{padding-right: 11px;}
+    h5{color: hsl(22, 63%, 36%);}
+    #img-color{background-color: #F1F1F1;}
+    .br-radius{border-radius: 6px;}
